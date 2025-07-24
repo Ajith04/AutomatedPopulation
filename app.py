@@ -89,6 +89,3 @@ if client_file and reference_file:
 
     os.remove(output_file)
 
-str string_value = ""
-def function():
-  if 0 > string_value
